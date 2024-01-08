@@ -1,6 +1,6 @@
 ---
-title: 'Megaport'
-date: 2024-01-05
+title: 'Home'
+date: 2023-10-24
 type: landing
 
 design:
@@ -11,14 +11,14 @@ sections:
   - block: hero
     content:
       title: Complex Networks. Simplified.
-      text: Deploy private network connectivity in minutes.      
+      text: Deploy Private Network Connectivity in Minutes
       primary_action:
-        text: Book a Demo
-        url: /demo
-        icon: phone
+        text: Get Started
+        url: https://hugoblox.com/templates/
+        icon: rocket-launch
       secondary_action:
-          text: Ready to go? Sign up now
-          url: https://portal.megaport.com/signup
+        text: Read the docs
+        url: https://docs.hugoblox.com
       announcement:
         text: Announcing the release of version 1.
         link:
@@ -61,7 +61,7 @@ sections:
     id: features
     content:
       title: Features
-      text: Build your site with blocks 🧱
+      text: Build your site with blocks
       items:
         - name: Optimized SEO
           icon: magnifying-glass
