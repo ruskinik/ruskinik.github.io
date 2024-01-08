@@ -19,6 +19,8 @@ tags:
   - Data
 ---
 
+## Hello
+
 In today’s ever-evolving digital landscape, data is the new gold. And with the advent of generative AI in cloud services, businesses have a unique chance to transform their data in powerful new ways.
 
 As the world awakens to the potential of generative AI as a service, it’s essential to grasp its fundamentals, its impact on the business landscape, and how companies can capitalize on this groundbreaking technology. For years, data has been steadily accumulating in vast silos, thanks to the proliferation of digital devices, social media, e-commerce, and more. 
