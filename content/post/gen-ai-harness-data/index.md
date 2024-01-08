@@ -2,6 +2,7 @@
 title: How Generative AI is Changing the Way We Harness Our Data
 summary: In today’s ever-evolving digital landscape, data is the new gold. And with the advent of generative AI in cloud services, businesses have a unique chance to transform their data in powerful new ways.
 date: 2024-01-05
+draft: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
