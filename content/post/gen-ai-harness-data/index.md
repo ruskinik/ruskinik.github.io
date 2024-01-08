@@ -1,35 +1,34 @@
 ---
-title: How Generative AI is Changing the Way We Harness Our Data
-summary: In today’s ever-evolving digital landscape, data is the new gold. And with the advent of generative AI in cloud services, businesses have a unique chance to transform their data in powerful new ways.
-date: 2024-01-05
+summary: >-
+  In today’s ever-evolving digital landscape, data is the new gold. And with the
+  advent of generative AI in cloud services, businesses have a unique chance to
+  transform their data in powerful new ways.
+date: '2024-01-05T00:00:00.000Z'
 draft: true
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  # caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
-  caption: 'Image caption'
-
+  caption: Image caption
 authors:
   - admin
-
 tags:
   - AI
   - LLM
   - Data
+title: How Generative AI is Changing the Way We Harness Our Data
 ---
+
+## Hello.
 
 In today’s ever-evolving digital landscape, data is the new gold. And with the advent of generative AI in cloud services, businesses have a unique chance to transform their data in powerful new ways.
 
-As the world awakens to the potential of generative AI as a service, it’s essential to grasp its fundamentals, its impact on the business landscape, and how companies can capitalize on this groundbreaking technology. For years, data has been steadily accumulating in vast silos, thanks to the proliferation of digital devices, social media, e-commerce, and more. 
+As the world awakens to the potential of generative AI as a service, it’s essential to grasp its fundamentals, its impact on the business landscape, and how companies can capitalize on this groundbreaking technology. For years, data has been steadily accumulating in vast silos, thanks to the proliferation of digital devices, social media, e-commerce, and more.
 
-{{< youtube A_0trg_LzD4 >}}
+{{\< youtube A\_0trg\_LzD4 >}}
 
-We’re in the midst of a digital revolution with data at its core. However, having loads of data isn’t enough. It’s the interpretation, the analysis, and the actionable insights that truly matter. This is where artificial intelligence (AI), especially generative AI (or Gen AI), enters the stage. Over the past decade, there has been a significant rise in AI models that don’t just analyze data, but also generate content and responses based on data inputs using large language models (LLMs). 
+We’re in the midst of a digital revolution with data at its core. However, having loads of data isn’t enough. It’s the interpretation, the analysis, and the actionable insights that truly matter. This is where artificial intelligence (AI), especially generative AI (or Gen AI), enters the stage. Over the past decade, there has been a significant rise in AI models that don’t just analyze data, but also generate content and responses based on data inputs using large language models (LLMs).
 
 ### Local Video
 
-{{< video src="connect-over-coffee.mp4" controls="yes" >}}
+{{\< video src="connect-over-coffee.mp4" controls="yes" >}}
 
 Recognizable names in this realm, like ChatGPT by OpenAI or even Google’s BERT that has been around since 2018, have begun to shift public perceptions on what AI can achieve. These models started by learning users’ search intentions and evolved to influence everything from chatbot responses to screenplay creation, revealing their diverse capabilities. For enterprises, this isn’t just a tech trend. It’s a game changer.
 

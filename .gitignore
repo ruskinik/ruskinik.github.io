@@ -6,3 +6,6 @@
 go.sum
 resources/
 public/
+
+node_modules
+.env
