@@ -5,4 +5,8 @@ description: testing tina cms
 ---
 It's now time to commit your changes and push to GitHub. You can run the following commands to initialize a git repository and push the changes so far.
 
+> It's now time to commit your changes and push to GitHub. You can run the following commands to initialize a git repository and push the changes so far.
+
+
+
 ![](/img/home-hero.webp)
