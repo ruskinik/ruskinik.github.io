@@ -1,7 +1,15 @@
+/* Make logo bigger */
+a.navbar-brand svg {
+    height: 2em;
+}
 .text-base {
     font-size: 1.25rem;
 }
 
-a.navbar-brand svg {
-    height: 2.5em;
+#section-hero .text-gray-600 {
+    color: #fff;
+}
+
+#section-hero > div.relative.isolate.px-6.pt-14.lg\:px-8 > div > div.hidden.sm\:mb-8.sm\:flex.sm\:justify-center > div {
+    display: none;
 }

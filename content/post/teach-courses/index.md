@@ -1,5 +1,5 @@
 ---
-title: 👩🏼‍🏫 Teach academic courses
+title: Teach academic courses
 summary: Embed videos, podcasts, code, LaTeX math, and even test students!
 date: 2023-10-24
 math: true
@@ -54,14 +54,14 @@ Try it out:
 Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
 
 ```markdown
-{{</* spoiler text="👉 Click to view the solution" */>}}
+{{</* spoiler text="Click to view the solution" */>}}
 You found me!
 {{</* /spoiler */>}}
 ```
 
 renders as
 
-{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
+{{< spoiler text="Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
 
 ## Math
 
@@ -139,5 +139,3 @@ data.head()
 renders as
 
 {{< icon name="python" >}} Python
-
-## Did you find this page helpful? Consider sharing it 🙌

@@ -1,5 +1,5 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
+title: Easily create your own simple yet highly customizable blog
 summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
 date: 2023-10-27
 
@@ -18,7 +18,7 @@ tags:
   - Markdown
 ---
 
-Welcome 👋
+Welcome
 
 ## Overview
 
@@ -30,18 +30,18 @@ Welcome 👋
 
 ### Get Started
 
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
-- 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+-  [**Create a new site**](https://hugoblox.com/templates/)
+-  [**Personalize your site**](https://docs.hugoblox.com/)
+-  [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
+-  Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
+-  [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
+-  **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
 
 ## Crowd-funded open-source software
 
 To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
 
-### [❤️ Click here to become a sponsor and help support Hugo Blox's future ❤️](https://hugoblox.com/sponsor/)
+### [Click here to become a sponsor and help support Hugo Blox's future ❤️](https://hugoblox.com/sponsor/)
 
 As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
 

@@ -11,7 +11,6 @@ image:
 
 authors:
   - admin
-  - Ted
 
 tags:
   - AI
