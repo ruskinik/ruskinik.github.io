@@ -7,6 +7,8 @@ It's now time to commit your changes and push to GitHub. You can run the followi
 
 > It's now time to commit your changes and push to GitHub. You can run the following commands to initialize a git repository and push the changes so far.
 
-
-
 ![](/img/home-hero.webp)
+
+## Heading of some sort
+
+Stick around and learn how to install and set up NGINX on Mac. You’ll learn a couple of different ways to install NGINX, so you may choose which method works for you. You’ll also learn the basic configuration items to help you start testing.
